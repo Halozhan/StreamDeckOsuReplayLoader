@@ -1,0 +1,38 @@
+{
+  "Actions": [
+    {
+      "Icon": "Images/icon",
+      "Name": "OsuReplayLoader",
+      "States": [
+        {
+          "Image": "Images/pluginAction",
+          "TitleAlignment": "middle",
+          "FontSize": "12"
+        }
+      ],
+      "SupportedInMultiActions": false,
+      "Tooltip": "TODO_ENTER_TOOLTIP",
+      "UUID": "StreamDeckOsuReplayLoader.pluginaction",
+      "PropertyInspectorPath": "PropertyInspector/PluginActionPI.html"
+    }
+  ],
+  "Author": "Halozhan",
+  "Name": "StreamDeckOsuReplayLoader",
+  "Description": "TODO_ENTER_PLUGIN_DESCRIPTION",
+  "Icon": "Images/pluginIcon",
+  "URL": "TODO_ENTER_YOUR_HOMEPAGE",
+  "Version": "1.0",
+  "CodePath": "StreamDeckOsuReplayLoader",
+  "Category": "OsuRelated",
+  "CategoryIcon": "Images/categoryIcon",
+  "OS": [
+    {
+      "Platform": "windows",
+      "MinimumVersion": "10"
+    }
+  ],
+  "SDKVersion": 2,
+  "Software": {
+    "MinimumVersion": "4.9"
+  }
+}
