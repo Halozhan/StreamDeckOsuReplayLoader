@@ -12,17 +12,17 @@
       ],
       "SupportedInMultiActions": false,
       "Tooltip": "TODO_ENTER_TOOLTIP",
-      "UUID": "StreamDeckOsuReplayLoader.pluginaction",
+      "UUID": "streamdeckosureplayloader.pluginaction",
       "PropertyInspectorPath": "PropertyInspector/PluginActionPI.html"
     }
   ],
   "Author": "Halozhan",
-  "Name": "StreamDeckOsuReplayLoader",
+  "Name": "streamdeckosureplayloader",
   "Description": "TODO_ENTER_PLUGIN_DESCRIPTION",
   "Icon": "Images/pluginIcon",
-  "URL": "TODO_ENTER_YOUR_HOMEPAGE",
+  "URL": "https://halozhan.moe",
   "Version": "1.0",
-  "CodePath": "StreamDeckOsuReplayLoader",
+  "CodePath": "streamdeckosureplayloader",
   "Category": "OsuRelated",
   "CategoryIcon": "Images/categoryIcon",
   "OS": [

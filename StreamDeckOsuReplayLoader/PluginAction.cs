@@ -12,7 +12,7 @@ using System.Text;
 using System.Threading;
 using System.Threading.Tasks;
 
-namespace StreamDeckOsuReplayLoader
+namespace streamdeckosureplayloader
 {
     [PluginActionId("streamdeckosureplayloader.pluginaction")]
     public class PluginAction : PluginBase
