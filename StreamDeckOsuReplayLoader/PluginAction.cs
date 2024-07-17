@@ -90,7 +90,7 @@ namespace streamdeckosureplayloader
             await Task.Run(() =>
             {
                 StreamDeckOsuReplayLoader.KeyMacro.PressF2();
-                StreamDeckOsuReplayLoader.OsuReplays.LoadRecentReplay(PluginSettings.CreateDefaultSettings().ReplaysPath);
+                StreamDeckOsuReplayLoader.OsuReplays.LoadRecentReplay(settings.ReplaysPath);
             });
         }
     }

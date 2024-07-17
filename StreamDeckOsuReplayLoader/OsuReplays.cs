@@ -9,7 +9,6 @@ namespace StreamDeckOsuReplayLoader
         public static void LoadRecentReplay(String replayPath)
         {
             // ref: http://www.gisdeveloper.co.kr/?p=2044
-            //string replaypath = "F:\\osu!\\Replays\\";
             DirectoryInfo di = new DirectoryInfo(replayPath);
             string LatestReplay = string.Empty;
             DateTime LatestReplayTime = new DateTime();
